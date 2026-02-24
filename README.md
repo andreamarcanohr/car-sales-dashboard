@@ -1,4 +1,5 @@
 # car-sales-dashboard
+<<<<<<< HEAD
 git add vehicles_us.csv
 git commit -m "data: add vehicles_us.csv"
 git push
@@ -27,3 +28,7 @@ and the relationship between mileage and price.
 ```bash
 git clone https://github.com/andreamarcanohr/car-sales-dashboard.git
 cd car-sales-dashboard
+=======
+
+Live App: https://car-sales-dashboard-mb7e.onrender.com
+>>>>>>> 6e0b106305d9ca74aea99a84a35905a0270ff29c
